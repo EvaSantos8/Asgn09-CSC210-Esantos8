@@ -1,0 +1,32 @@
+<resources>
+   <string name="app_name">MovieCollection</string>
+   <string name="menuitem_edit">Edit</string>
+   <string name="menuitem_delete">Delete</string>
+   <string name="hint_name_required">Title (Required)</string>
+   <string name="hint_email">Director</string>
+   <string name="hint_phone">Year</string>
+   <string name="hint_street">Writer</string>
+   <string name="hint_city">Rating</string>
+   <string name="hint_state">Company</string>
+   <string name="hint_zip">Playtime</string>
+   <string name="label_name">Title:</string>
+   <string name="label_email">Director:</string>
+   <string name="label_phone">Year</string>
+   <string name="label_street">Writer</string>
+   <string name="label_city">Rating:</string>
+   <string name="label_state">Company:</string>
+   <string name="label_zip">Playtime:</string>
+   <string name="confirm_title">Are You Sure?</string>
+   <string name="confirm_message">This will permanently delete the movie</string>
+   <string name="button_cancel">Cancel</string>
+   <string name="button_delete">Delete</string>
+   <string name="contact_added">Movie added successfully</string>
+   <string name="contact_not_added">Movie was not added due to an error</string>
+   <string name="contact_updated">Movie updated</string>
+   <string name="contact_not_updated">Movie was not updated due to an error</string>
+   <string name="invalid_query_uri">Invalid query Uri: </string>
+   <string name="invalid_insert_uri">Invalid insert Uri: </string>
+   <string name="invalid_update_uri">Invalid update Uri: </string>
+   <string name="invalid_delete_uri">Invalid delete Uri: </string>
+   <string name="insert_failed">Insert failed:</string>
+</resources>
